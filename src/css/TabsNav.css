@@ -51,10 +51,6 @@ ul li:hover svg path {
 
 /* The active Tab */
 
-.active {
-  border-bottom: 4px solid var(--main-red);
-
-}
 
 .tab-selected {
   color: #fff;
